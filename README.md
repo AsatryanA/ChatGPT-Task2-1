@@ -12,7 +12,7 @@ This project implements a simple RESTful API for an online bookstore using Sprin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/online-bookstore-api.git
+   git clone https://github.com/AsatryanA/ChatGPT-Task2-1
    cd online-bookstore-api
     ```
 2. **Run the application:**
